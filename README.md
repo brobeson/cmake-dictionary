@@ -38,91 +38,91 @@ I need to get the keywords for these commands.
 - [x] cmake_parse_arguments
 - [x] cmake_path
 - [x] cmake_policy
-- [ ] configure_file
-- [ ] continue
-- [ ] create_test_sourcelist
-- [ ] ctest_build
-- [ ] ctest_configure
-- [ ] ctest_coverage
-- [ ] ctest_empty_binary_directory
-- [ ] ctest_memcheck
-- [ ] ctest_read_custom_files
-- [ ] ctest_run_script
-- [ ] ctest_sleep
-- [ ] ctest_start
-- [ ] ctest_submit
-- [ ] ctest_test
-- [ ] ctest_update
-- [ ] ctest_upload
-- [ ] define_property
-- [ ] else
-- [ ] elseif
-- [ ] enable_language
-- [ ] enable_testing
-- [ ] endblock
-- [ ] endforeach
-- [ ] endfunction
-- [ ] endif
-- [ ] endmacro
-- [ ] endwhile
-- [ ] execute_process
-- [ ] export
-- [ ] file
-- [ ] find_file
-- [ ] find_library
-- [ ] find_package
-- [ ] find_path
-- [ ] find_program
-- [ ] fltk_wrap_ui
-- [ ] foreach
-- [ ] function
-- [ ] get_cmake_property
-- [ ] get_directory_property
-- [ ] get_filename_component
-- [ ] get_property
-- [ ] get_source_file_property
-- [ ] get_target_property
-- [ ] get_test_property
-- [ ] if
-- [ ] include
-- [ ] include_directories
-- [ ] include_external_msproject
-- [ ] include_guard
-- [ ] include_regular_expression
-- [ ] install
-- [ ] link_directories
-- [ ] link_libraries
-- [ ] list
-- [ ] load_cache
-- [ ] macro
-- [ ] mark_as_advanced
-- [ ] math
-- [ ] message
-- [ ] option
-- [ ] project
-- [ ] remove_definitions
-- [ ] return
-- [ ] separate_arguments
-- [ ] set
-- [ ] set_directory_properties
-- [ ] set_property
-- [ ] set_source_files_properties
-- [ ] set_target_properties
-- [ ] set_tests_properties
-- [ ] site_name
-- [ ] source_group
-- [ ] string
-- [ ] target_compile_definitions
-- [ ] target_compile_features
-- [ ] target_compile_options
-- [ ] target_include_directories
-- [ ] target_link_directories
-- [ ] target_link_libraries
-- [ ] target_link_options
-- [ ] target_precompile_headers
-- [ ] target_sources
-- [ ] try_compile
-- [ ] try_run
-- [ ] unset
-- [ ] variable_watch
-- [ ] while
+- [x] configure_file
+- [x] continue
+- [x] create_test_sourcelist
+- [x] ctest_build
+- [x] ctest_configure
+- [x] ctest_coverage
+- [x] ctest_empty_binary_directory
+- [x] ctest_memcheck
+- [x] ctest_read_custom_files
+- [x] ctest_run_script
+- [x] ctest_sleep
+- [x] ctest_start
+- [x] ctest_submit
+- [x] ctest_test
+- [x] ctest_update
+- [x] ctest_upload
+- [x] define_property
+- [x] else
+- [x] elseif
+- [x] enable_language
+- [x] enable_testing
+- [x] endblock
+- [x] endforeach
+- [x] endfunction
+- [x] endif
+- [x] endmacro
+- [x] endwhile
+- [x] execute_process
+- [x] export
+- [x] file
+- [x] find_file
+- [x] find_library
+- [x] find_package
+- [x] find_path
+- [x] find_program
+- [x] fltk_wrap_ui
+- [x] foreach
+- [x] function
+- [x] get_cmake_property
+- [x] get_directory_property
+- [x] get_filename_component
+- [x] get_property
+- [x] get_source_file_property
+- [x] get_target_property
+- [x] get_test_property
+- [x] if
+- [x] include
+- [x] include_directories
+- [x] include_external_msproject
+- [x] include_guard
+- [x] include_regular_expression
+- [x] install
+- [x] link_directories
+- [x] link_libraries
+- [x] list
+- [x] load_cache
+- [x] macro
+- [x] mark_as_advanced
+- [x] math
+- [x] message
+- [x] option
+- [x] project
+- [x] remove_definitions
+- [x] return
+- [x] separate_arguments
+- [x] set
+- [x] set_directory_properties
+- [x] set_property
+- [x] set_source_files_properties
+- [x] set_target_properties
+- [x] set_tests_properties
+- [x] site_name
+- [x] source_group
+- [x] string
+- [x] target_compile_definitions
+- [x] target_compile_features
+- [x] target_compile_options
+- [x] target_include_directories
+- [x] target_link_directories
+- [x] target_link_libraries
+- [x] target_link_options
+- [x] target_precompile_headers
+- [x] target_sources
+- [x] try_compile
+- [x] try_run
+- [x] unset
+- [x] variable_watch
+- [x] while
