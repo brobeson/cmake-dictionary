@@ -17,8 +17,8 @@ A dictionary of CMake words for CSpell
 CMake vocabulary pulled from these section of the reference documentation.
 Include words not part of the CMake language to account for things like user documentation (example terminal commands), and JSON files like presets.
 
-- [ ] cmake(1)
-- [ ] ctest(1)
+- [x] cmake(1)
+- [x] ctest(1)
 - [ ] cpack(1)
 - [ ] cmake-gui(1)
 - [ ] ccmake(1)
