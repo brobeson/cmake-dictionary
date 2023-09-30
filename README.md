@@ -20,7 +20,7 @@ Include words not part of the CMake language to account for things like user doc
 - [x] cmake(1)
 - [x] ctest(1)
 - [x] cpack(1)
-- [ ] cmake-gui(1)
+- [x] cmake-gui(1)
 - [ ] ccmake(1)
 - [ ] cmake-buildsystem(7)
 - [x] cmake-commands(7)

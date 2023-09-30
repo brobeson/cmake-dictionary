@@ -1,12 +1,6 @@
-cpack
-config
-verbose
-debug
-trace
-trace-expand
-vendor
+cmake-gui
 preset
-list-presets
+browse-manual
 version
 help
 help-full
