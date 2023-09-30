@@ -138,7 +138,7 @@ Include words not part of the CMake language to account for things like user doc
 - [x] cmake-configure-log(7)
 - [x] cmake-developer(7)
 - [x] cmake-env-variables(7)
-- [ ] cmake-file-api(7)
+- [x] cmake-file-api(7)
 - [x] cmake-generator-expressions(7)
 - [x] cmake-generators(7)
 - [x] cmake-language(7)
