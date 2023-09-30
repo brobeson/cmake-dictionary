@@ -383,8 +383,23 @@ Include words not part of the CMake language to account for things like user doc
 - [x] cmake-policies(7)
 - [x] cmake-presets(7)
 - [x] cmake-properties(7)
-- [ ] cmake-qt(7)
-- [ ] cmake-server(7)
-- [ ] cmake-toolchains(7)
+- [x] cmake-qt(7)
+- [x] cmake-server(7)
+- [x] cmake-toolchains(7)
 - [x] cmake-variables(7)
 - [ ] cpack-generators(7)
+  - [ ] CPack Archive Generator
+  - [ ] CPack Bundle Generator
+  - [ ] CPack Cygwin Generator
+  - [ ] CPack DEB Generator
+  - [ ] CPack DragNDrop Generator
+  - [ ] CPack External Generator
+  - [ ] CPack FreeBSD Generator
+  - [ ] CPack Inno Setup Generator
+  - [ ] CPack IFW Generator
+  - [ ] CPack NSIS Generator
+  - [ ] CPack NuGet Generator
+  - [ ] CPack PackageMaker Generator
+  - [ ] CPack productbuild Generator
+  - [ ] CPack RPM Generator
+  - [ ] CPack WIX Generator

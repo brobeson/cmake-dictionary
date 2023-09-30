@@ -3420,3 +3420,6 @@ type
 value
 version
 visibility
+
+# Qt
+autogen
