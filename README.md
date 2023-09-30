@@ -388,7 +388,7 @@ Include words not part of the CMake language to account for things like user doc
 - [x] cmake-toolchains(7)
 - [x] cmake-variables(7)
 - [ ] cpack-generators(7)
-  - [ ] CPack Archive Generator
+  - [x] CPack Archive Generator
   - [ ] CPack Bundle Generator
   - [ ] CPack Cygwin Generator
   - [ ] CPack DEB Generator
