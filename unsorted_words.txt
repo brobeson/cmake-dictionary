@@ -1,33 +1,23 @@
-ccmake
-toolchain
-install-prefix
-Wno-dev
-Wdev
-Wdeprecated
-Wno-deprecated
-Werror
-dev
-deprecated
-Wno-error
-dev
-deprecated
-version
-help
-help-full
-help-manual
-help-manual-list
-help-command
-help-command-list
-help-commands
-help-module
-help-module-list
-help-modules
-help-policy
-help-policy-list
-help-policies
-help-property
-help-property-list
-help-properties
-help-variable
-help-variable-list
-help-variables
+Borland Makefiles
+MSYS Makefiles
+MinGW Makefiles
+NMake Makefiles
+NMake Makefiles JOM
+Unix Makefiles
+Watcom WMake
+Ninja
+Ninja Multi-Config
+Visual Studio 6
+Visual Studio 7
+Visual Studio 7 .NET 2003
+Visual Studio 8 2005
+Visual Studio 9 2008
+Visual Studio 10 2010
+Visual Studio 11 2012
+Visual Studio 12 2013
+Visual Studio 14 2015
+Visual Studio 15 2017
+Visual Studio 16 2019
+Visual Studio 17 2022
+Green Hills MULTI
+Xcode

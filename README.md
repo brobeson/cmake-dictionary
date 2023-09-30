@@ -22,7 +22,7 @@ Include words not part of the CMake language to account for things like user doc
 - [x] cpack(1)
 - [x] cmake-gui(1)
 - [x] ccmake(1)
-- [ ] cmake-buildsystem(7)
+- [x] cmake-buildsystem(7)
 - [x] cmake-commands(7)
   - [x] add_compile_definitions
   - [x] add_compile_options
