@@ -391,12 +391,12 @@ Include words not part of the CMake language to account for things like user doc
   - [x] CPack Archive Generator
   - [x] CPack Bundle Generator
   - [x] CPack Cygwin Generator
-  - [ ] CPack DEB Generator
+  - [x] CPack DEB Generator
   - [x] CPack DragNDrop Generator
-  - [ ] CPack External Generator
-  - [ ] CPack FreeBSD Generator
-  - [ ] CPack Inno Setup Generator
-  - [ ] CPack IFW Generator
+  - [x] CPack External Generator
+  - [x] CPack FreeBSD Generator
+  - [x] CPack Inno Setup Generator
+  - [x] CPack IFW Generator
   - [ ] CPack NSIS Generator
   - [ ] CPack NuGet Generator
   - [ ] CPack PackageMaker Generator
