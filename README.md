@@ -143,7 +143,7 @@ Include words not part of the CMake language to account for things like user doc
 - [x] cmake-generators(7)
 - [x] cmake-language(7)
 - [ ] cmake-modules(7)
-  - [ ] AndroidTestUtilities
+  - [x] AndroidTestUtilities
   - [ ] BundleUtilities
   - [ ] CheckCCompilerFlag
   - [ ] CheckCompilerFlag
