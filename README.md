@@ -149,8 +149,8 @@ Include words not part of the CMake language to account for things like user doc
   - [x] CheckCompilerFlag
   - [x] CheckCSourceCompiles
   - [x] CheckCSourceRuns
-  - [ ] CheckCXXCompilerFlag
-  - [ ] CheckCXXSourceCompiles
+  - [x] CheckCXXCompilerFlag
+  - [x] CheckCXXSourceCompiles
   - [ ] CheckCXXSourceRuns
   - [ ] CheckCXXSymbolExists
   - [ ] CheckFortranCompilerFlag
