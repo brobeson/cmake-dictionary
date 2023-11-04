@@ -151,20 +151,20 @@ Include words not part of the CMake language to account for things like user doc
   - [x] CheckCSourceRuns
   - [x] CheckCXXCompilerFlag
   - [x] CheckCXXSourceCompiles
-  - [ ] CheckCXXSourceRuns
-  - [ ] CheckCXXSymbolExists
-  - [ ] CheckFortranCompilerFlag
-  - [ ] CheckFortranFunctionExists
-  - [ ] CheckFortranSourceCompiles
-  - [ ] CheckFortranSourceRuns
-  - [ ] CheckFunctionExists
-  - [ ] CheckIncludeFileCXX
-  - [ ] CheckIncludeFile
-  - [ ] CheckIncludeFiles
-  - [ ] CheckIPOSupported
-  - [ ] CheckLanguage
-  - [ ] CheckLibraryExists
-  - [ ] CheckLinkerFlag
+  - [x] CheckCXXSourceRuns
+  - [x] CheckCXXSymbolExists
+  - [x] CheckFortranCompilerFlag
+  - [x] CheckFortranFunctionExists
+  - [x] CheckFortranSourceCompiles
+  - [x] CheckFortranSourceRuns
+  - [x] CheckFunctionExists
+  - [x] CheckIncludeFileCXX
+  - [x] CheckIncludeFile
+  - [x] CheckIncludeFiles
+  - [x] CheckIPOSupported
+  - [x] CheckLanguage
+  - [x] CheckLibraryExists
+  - [x] CheckLinkerFlag
   - [ ] CheckOBJCCompilerFlag
   - [ ] CheckOBJCSourceCompiles
   - [ ] CheckOBJCSourceRuns
