@@ -165,32 +165,32 @@ Include words not part of the CMake language to account for things like user doc
   - [x] CheckLanguage
   - [x] CheckLibraryExists
   - [x] CheckLinkerFlag
-  - [ ] CheckOBJCCompilerFlag
-  - [ ] CheckOBJCSourceCompiles
-  - [ ] CheckOBJCSourceRuns
-  - [ ] CheckOBJCXXCompilerFlag
-  - [ ] CheckOBJCXXSourceCompiles
-  - [ ] CheckOBJCXXSourceRuns
-  - [ ] CheckPIESupported
-  - [ ] CheckPrototypeDefinition
-  - [ ] CheckSourceCompiles
-  - [ ] CheckSourceRuns
-  - [ ] CheckStructHasMember
-  - [ ] CheckSymbolExists
-  - [ ] CheckTypeSize
-  - [ ] CheckVariableExists
-  - [ ] CMakeAddFortranSubdirectory
-  - [ ] CMakeBackwardCompatibilityCXX
-  - [ ] CMakeDependentOption
-  - [ ] CMakeFindDependencyMacro
-  - [ ] CMakeFindFrameworks
-  - [ ] CMakeFindPackageMode
-  - [ ] CMakeGraphVizOptions
-  - [ ] CMakePackageConfigHelpers
-  - [ ] CMakePrintHelpers
-  - [ ] CMakePrintSystemInformation
-  - [ ] CMakePushCheckState
-  - [ ] CMakeVerifyManifest
+  - [x] CheckOBJCCompilerFlag
+  - [x] CheckOBJCSourceCompiles
+  - [x] CheckOBJCSourceRuns
+  - [x] CheckOBJCXXCompilerFlag
+  - [x] CheckOBJCXXSourceCompiles
+  - [x] CheckOBJCXXSourceRuns
+  - [x] CheckPIESupported
+  - [x] CheckPrototypeDefinition
+  - [x] CheckSourceCompiles
+  - [x] CheckSourceRuns
+  - [x] CheckStructHasMember
+  - [x] CheckSymbolExists
+  - [x] CheckTypeSize
+  - [x] CheckVariableExists
+  - [x] CMakeAddFortranSubdirectory
+  - [x] CMakeBackwardCompatibilityCXX
+  - [x] CMakeDependentOption
+  - [x] CMakeFindDependencyMacro
+  - [x] CMakeFindFrameworks
+  - [x] CMakeFindPackageMode
+  - [x] CMakeGraphVizOptions
+  - [x] CMakePackageConfigHelpers
+  - [x] CMakePrintHelpers
+  - [x] CMakePrintSystemInformation
+  - [x] CMakePushCheckState
+  - [x] CMakeVerifyManifest
   - [ ] CPack
   - [ ] CPackComponent
   - [ ] CPackIFW
