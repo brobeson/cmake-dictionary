@@ -23,7 +23,7 @@ Definition of done — I have extracted CMake words from the documentation to se
 
 ### Reference Manuals
 
-- [ ] [cmake-buildsystem(7)](https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html)
+- [x] [cmake-buildsystem(7)](https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html)
 - [x] [cmake-commands(7)](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
   - [ ] add_compile_definitions
   - [ ] add_compile_options
@@ -157,29 +157,45 @@ Definition of done — I have extracted CMake words from the documentation to se
   - [ ] utility_source (deprecated command)
   - [ ] variable_requires (deprecated command)
   - [ ] write_file (deprecated command)
-- [ ] [cmake-compile-features(7)](https://cmake.org/cmake/help/latest/manual/cmake-compile-features.7.html)
+- [x] [cmake-compile-features(7)](https://cmake.org/cmake/help/latest/manual/cmake-compile-features.7.html)
 - [ ] [cmake-configure-log(7)](https://cmake.org/cmake/help/latest/manual/cmake-configure-log.7.html)
 - [ ] [cmake-cxxmodules(7)](https://cmake.org/cmake/help/latest/manual/cmake-cxxmodules.7.html)
-- [ ] [cmake-developer(7)](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
+- [x] [cmake-developer(7)](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
 - [ ] [cmake-diagnostics(7)](https://cmake.org/cmake/help/latest/manual/cmake-diagnostics.7.html)
 - [ ] [cmake-env-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-env-variables.7.html)
 - [ ] [cmake-file-api(7)](https://cmake.org/cmake/help/latest/manual/cmake-file-api.7.html)
 - [ ] [cmake-generator-expressions(7)](https://cmake.org/cmake/help/latest/manual/cmake-generator-expressions.7.html)
-- [ ] [cmake-generators(7)](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html)
+- [x] [cmake-generators(7)](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html)
 - [ ] [cmake-instrumentation(7)](https://cmake.org/cmake/help/latest/manual/cmake-instrumentation.7.html)
-- [ ] [cmake-language(7)](https://cmake.org/cmake/help/latest/manual/cmake-language.7.html)
+- [x] [cmake-language(7)](https://cmake.org/cmake/help/latest/manual/cmake-language.7.html)
 - [x] [cmake-modules(7)](https://cmake.org/cmake/help/latest/manual/cmake-modules.7.html)
   - [ ] Check all modules for variables, commands, and targets.
-- [ ] [cmake-packages(7)](https://cmake.org/cmake/help/latest/manual/cmake-packages.7.html)
-- [ ] [cmake-policies(7)](https://cmake.org/cmake/help/latest/manual/cmake-policies.7.html)
+- [x] [cmake-packages(7)](https://cmake.org/cmake/help/latest/manual/cmake-packages.7.html)
+- [x] [cmake-policies(7)](https://cmake.org/cmake/help/latest/manual/cmake-policies.7.html)
 - [ ] [cmake-presets(7)](https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html)
 - [ ] [cmake-properties(7)](https://cmake.org/cmake/help/latest/manual/cmake-properties.7.html)
-- [ ] [cmake-qt(7)](https://cmake.org/cmake/help/latest/manual/cmake-qt.7.html)
-- [ ] [cmake-server(7)](https://cmake.org/cmake/help/latest/manual/cmake-server.7.html)
-- [ ] [cmake-toolchains(7)](https://cmake.org/cmake/help/latest/manual/cmake-toolchains.7.html)
+- [x] [cmake-qt(7)](https://cmake.org/cmake/help/latest/manual/cmake-qt.7.html)
+- [x] [cmake-server(7)](https://cmake.org/cmake/help/latest/manual/cmake-server.7.html)
+- [x] [cmake-toolchains(7)](https://cmake.org/cmake/help/latest/manual/cmake-toolchains.7.html)
 - [x] [cmake-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
   - [ ] Check all variables for keyword values
-- [ ] [cpack-generators(7)](https://cmake.org/cmake/help/latest/manual/cpack-generators.7.html)
+- [x] [cpack-generators(7)](https://cmake.org/cmake/help/latest/manual/cpack-generators.7.html)
+  - [ ] CPack AppImage Generator
+  - [ ] CPack Archive Generator
+  - [ ] CPack Bundle Generator
+  - [ ] CPack Cygwin Generator
+  - [ ] CPack DEB Generator
+  - [ ] CPack DragNDrop Generator
+  - [ ] CPack External Generator
+  - [ ] CPack FreeBSD Generator
+  - [ ] CPack Inno Setup Generator
+  - [ ] CPack IFW Generator
+  - [ ] CPack NSIS Generator
+  - [ ] CPack NuGet Generator
+  - [ ] CPack PackageMaker Generator
+  - [ ] CPack productbuild Generator
+  - [ ] CPack RPM Generator
+  - [ ] CPack WIX Generator
 
 ### Guides
 
