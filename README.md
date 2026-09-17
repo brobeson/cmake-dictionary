@@ -176,7 +176,8 @@ Definition of done — I have extracted CMake words from the documentation to se
 - [ ] [cmake-qt(7)](https://cmake.org/cmake/help/latest/manual/cmake-qt.7.html)
 - [ ] [cmake-server(7)](https://cmake.org/cmake/help/latest/manual/cmake-server.7.html)
 - [ ] [cmake-toolchains(7)](https://cmake.org/cmake/help/latest/manual/cmake-toolchains.7.html)
-- [ ] [cmake-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
+- [x] [cmake-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
+  - [ ] Check all variables for keyword values
 - [ ] [cpack-generators(7)](https://cmake.org/cmake/help/latest/manual/cpack-generators.7.html)
 
 ### Guides
