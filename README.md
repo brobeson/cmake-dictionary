@@ -162,7 +162,8 @@ Definition of done — I have extracted CMake words from the documentation to se
 - [ ] [cmake-cxxmodules(7)](https://cmake.org/cmake/help/latest/manual/cmake-cxxmodules.7.html)
 - [x] [cmake-developer(7)](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
 - [ ] [cmake-diagnostics(7)](https://cmake.org/cmake/help/latest/manual/cmake-diagnostics.7.html)
-- [ ] [cmake-env-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-env-variables.7.html)
+- [x] [cmake-env-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-env-variables.7.html)
+  - [ ] Check all environment variables for keyword values
 - [ ] [cmake-file-api(7)](https://cmake.org/cmake/help/latest/manual/cmake-file-api.7.html)
 - [ ] [cmake-generator-expressions(7)](https://cmake.org/cmake/help/latest/manual/cmake-generator-expressions.7.html)
 - [x] [cmake-generators(7)](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html)
