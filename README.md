@@ -12,14 +12,14 @@ Definition of done — I have extracted CMake words from the documentation to se
 
 ### Command-Line Tools
 
-- [ ] [cmake(1)](https://cmake.org/cmake/help/latest/manual/cmake.1.html)
-- [ ] [ctest(1)](https://cmake.org/cmake/help/latest/manual/ctest.1.html)
-- [ ] [cpack(1)](https://cmake.org/cmake/help/latest/manual/cpack.1.html)
+- [x] [cmake(1)](https://cmake.org/cmake/help/latest/manual/cmake.1.html)
+- [x] [ctest(1)](https://cmake.org/cmake/help/latest/manual/ctest.1.html)
+- [x] [cpack(1)](https://cmake.org/cmake/help/latest/manual/cpack.1.html)
 
 ### Interactive Dialogs
 
-- [ ] [cmake-gui(1)](https://cmake.org/cmake/help/latest/manual/cmake-gui.1.html)
-- [ ] [ccmake(1)](https://cmake.org/cmake/help/latest/manual/ccmake.1.html)
+- [x] [cmake-gui(1)](https://cmake.org/cmake/help/latest/manual/cmake-gui.1.html)
+- [x] [ccmake(1)](https://cmake.org/cmake/help/latest/manual/ccmake.1.html)
 
 ### Reference Manuals
 
