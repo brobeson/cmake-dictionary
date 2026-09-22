@@ -159,9 +159,9 @@ Definition of done — I have extracted CMake words from the documentation to se
   - [ ] write_file (deprecated command)
 - [x] [cmake-compile-features(7)](https://cmake.org/cmake/help/latest/manual/cmake-compile-features.7.html)
 - [x] [cmake-configure-log(7)](https://cmake.org/cmake/help/latest/manual/cmake-configure-log.7.html)
-- [ ] [cmake-cxxmodules(7)](https://cmake.org/cmake/help/latest/manual/cmake-cxxmodules.7.html)
+- [x] [cmake-cxxmodules(7)](https://cmake.org/cmake/help/latest/manual/cmake-cxxmodules.7.html)
 - [x] [cmake-developer(7)](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
-- [ ] [cmake-diagnostics(7)](https://cmake.org/cmake/help/latest/manual/cmake-diagnostics.7.html)
+- [x] [cmake-diagnostics(7)](https://cmake.org/cmake/help/latest/manual/cmake-diagnostics.7.html)
 - [x] [cmake-env-variables(7)](https://cmake.org/cmake/help/latest/manual/cmake-env-variables.7.html)
   - [ ] Check all environment variables for keyword values
 - [ ] [cmake-file-api(7)](https://cmake.org/cmake/help/latest/manual/cmake-file-api.7.html)
