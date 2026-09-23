@@ -173,7 +173,7 @@ Definition of done — I have extracted CMake words from the documentation to se
   - [ ] Check all modules for variables, commands, and targets.
 - [x] [cmake-packages(7)](https://cmake.org/cmake/help/latest/manual/cmake-packages.7.html)
 - [x] [cmake-policies(7)](https://cmake.org/cmake/help/latest/manual/cmake-policies.7.html)
-- [ ] [cmake-presets(7)](https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html)
+- [x] [cmake-presets(7)](https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html)
 - [x] [cmake-properties(7)](https://cmake.org/cmake/help/latest/manual/cmake-properties.7.html)
   - [ ] Check all properties for keyword values
 - [x] [cmake-qt(7)](https://cmake.org/cmake/help/latest/manual/cmake-qt.7.html)
