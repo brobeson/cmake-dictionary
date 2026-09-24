@@ -25,8 +25,8 @@ Definition of done — I have extracted CMake words from the documentation to se
 
 - [x] [cmake-buildsystem(7)](https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html)
 - [x] [cmake-commands(7)](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
-  - [ ] add_compile_definitions
-  - [ ] add_compile_options
+  - [x] add_compile_definitions
+  - [x] add_compile_options
   - [ ] add_custom_command
   - [ ] add_custom_target
   - [ ] add_definitions
@@ -37,21 +37,21 @@ Definition of done — I have extracted CMake words from the documentation to se
   - [ ] add_subdirectory
   - [ ] add_test
   - [ ] aux_source_directory
-  - [ ] block
-  - [ ] break
+  - [x] block
+  - [x] break
   - [ ] build_command
-  - [ ] cmake_diagnostic
+  - [x] cmake_diagnostic
   - [ ] cmake_file_api
-  - [ ] cmake_host_system_information
+  - [x] cmake_host_system_information
   - [ ] cmake_instrumentation
-  - [ ] cmake_language
-  - [ ] cmake_minimum_required
-  - [ ] cmake_parse_arguments
-  - [ ] cmake_path
-  - [ ] cmake_pkg_config
-  - [ ] cmake_policy
-  - [ ] configure_file
-  - [ ] continue
+  - [x] cmake_language
+  - [x] cmake_minimum_required
+  - [x] cmake_parse_arguments
+  - [x] cmake_path
+  - [x] cmake_pkg_config
+  - [x] cmake_policy
+  - [x] configure_file
+  - [x] continue
   - [ ] create_test_sourcelist
   - [ ] ctest_build
   - [ ] ctest_configure
@@ -68,19 +68,19 @@ Definition of done — I have extracted CMake words from the documentation to se
   - [ ] ctest_upload
   - [ ] define_property
   - [ ] discover_tests
-  - [ ] else
-  - [ ] elseif
+  - [x] else
+  - [x] elseif
   - [ ] enable_language
   - [ ] enable_testing
-  - [ ] endblock
-  - [ ] endforeach
-  - [ ] endfunction
-  - [ ] endif
-  - [ ] endmacro
-  - [ ] endwhile
-  - [ ] execute_process
+  - [x] endblock
+  - [x] endforeach
+  - [x] endfunction
+  - [x] endif
+  - [x] endmacro
+  - [x] endwhile
+  - [x] execute_process
   - [ ] export
-  - [ ] file
+  - [ ] file <--
   - [ ] find_file
   - [ ] find_library
   - [ ] find_package
