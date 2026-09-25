@@ -80,10 +80,10 @@ Definition of done — I have extracted CMake words from the documentation to se
   - [x] endwhile
   - [x] execute_process
   - [ ] export
-  - [ ] file <--
-  - [ ] find_file
-  - [ ] find_library
-  - [ ] find_package
+  - [x] file
+  - [x] find_file
+  - [x] find_library
+  - [x] find_package <---
   - [ ] find_path
   - [ ] find_program
   - [ ] fltk_wrap_ui
